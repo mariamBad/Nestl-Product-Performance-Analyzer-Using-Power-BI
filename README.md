@@ -1,4 +1,4 @@
-# Nestlé-Product-Performance-Analyzer-Using-Power-BI
+# Nestlé Product Performance Analyzer Using Power BI
 As a Data Analyst consultant in Nestlé's Growth and Strategy Department, I was tasked with developing a product comparison dashboard to help the company make informed decisions about its expansion plans.
 
 Analyzing the company's revenue data from the past three years, I discovered several key insights that could significantly impact Nestlé's growth strategy. With total revenue reaching $30.8M over the past three years, it was crucial to understand the factors influencing product performance and revenue generation.
